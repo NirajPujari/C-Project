@@ -1,2 +1,3 @@
 # C-Project
-In this project we have tried to create a small IQ, EQ and SQ Test. Its a ui program to user wolud have to give input in the form of text or numerical.
+Its very easy to use 
+Just run the c file and answer the test questions
